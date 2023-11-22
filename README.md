@@ -1,4 +1,4 @@
-
+![logo](/Alluvium-Services-Plus.png)
 # Alluvium Services
 
 ####  Medical Billing and Charge Capture Services for Providers by Providers
@@ -20,5 +20,5 @@
 
 
 ## header 4
-- test
+
 ![logo](/Alluvium-Services-Plus.png)
