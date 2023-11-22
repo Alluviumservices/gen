@@ -1,24 +1,10 @@
-![logo](/Alluvium-Services-Plus.png)
 # Alluvium Services
 
-####  Medical Billing and Charge Capture Services for Providers by Providers
+####  Medical Services for Providers by Providers
 
-## Header
+## Medical Billing Services
 - P
 
-## Header 2
-**Sub H
-- d
+## Charge Capture Services
 - d
 
-**Sub H
-- d
-
-## Header 3
-### subheader
-
-
-
-## header 4
-
-![logo](/Alluvium-Services-Plus.png)
