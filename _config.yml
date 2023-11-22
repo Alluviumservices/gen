@@ -1,5 +1,5 @@
 title: Alluvium Services
-logo: https://github.com/Alluviumservices/test2/blob/main/Alluvium-Services-Plus.png
+logo: ![logo](/Alluvium-Services-Plus.png)
 description: Medical Billing Services
 show_downloads: false
 theme: jekyll-theme-minimal
