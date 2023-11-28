@@ -6,7 +6,7 @@
 
 
 ## Charge Capture Services
-- Providing all services from a single intuitive provider interface<br><br>
+- Providing all services from a single intuitive user interface<br><br>
   
 
 ## Customer Service
